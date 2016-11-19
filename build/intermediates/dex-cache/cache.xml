@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_97e20440a192fa5e13ae2c4a2b44e91edd97dc36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_fec2d5400dacef58565c1e17d0adb449ad73f297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6345b5fdcb88ca92d54b8eda24dd3357eeb4c8be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chenyu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_b4560ebb1b8a67e6f4986d6f8e75f375fbe5fe6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_00239ce53e13ad34c197a07a932aa45d9839cfb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_dc16a7dc63b47c7543439fddaee1e66285e2b4f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ed51eb01ccf7ff52a470c62c89ef63cd5b4cdbee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_74ed2535e09355840b3356aee5bb59a5c5a36330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b840db9a9f83a71beefae2c197f6f1cab128f9da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="742ab3a3e79ecb82e73ee5fd858a893f656ef47b">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05e3fb49179c0c8a8b4d87b46d0d39b7cf4d6233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_5d99200b1eb26fe17f584fa493a87adb0684ce81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_aa696e875b92e90e652be6475fa2927557a7f744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.0.0_a2381d80ac069bea69c5dd1d9337aa96ede91c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9b2858d0b37afaff0a9f04507dfec5518a9a785">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_66bc1981c9fba26bfa461a7c78d3b0ff87474f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c07952bc14332e2c6460dbe54b596dee34a5ddb0">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb0cc520498aaa46b44b60391c2aa5fbf8bc25ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_7eaddd18372d7f4d8baa7ad4f8ebef0dfa1ad6ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_00834e9468baafe79bdd604a58d13f711bb1f4f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_5e16fb25296d65b02c7f9e2f5725646eb7c382cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2d5cbc81489da83872767a75e400fd0593a9b213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_716be657a43e8658fed1123413e3c661fa350b65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.0.0_5a9fd77f727cf8431fa53e2b8e811561a0ff374c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\NavigationDrawer\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e80da5145bfc402d67c682b7ee036486c57025f">
+        <dex dex="D:\android\git\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_64444fe4a2fb45ec0de67fc6b2879b134d3635d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\MyNavigationDrawer\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\android\git\MyNavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_ca4b2689b2b88404e82f6b8c53cbe1667dd7b446\classes.dex" />
+    </item>
+
+</items>
